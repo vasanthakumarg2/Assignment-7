@@ -1,0 +1,7 @@
+numpy
+Pillow
+prometheus-fastapi-instrumentator
+psutil
+prometheus_client
+uvicorn
+fastapi
